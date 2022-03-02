@@ -1,10 +1,4 @@
 {
   "name": "Deploy to surge",
-  "description": "Deploy HTML to surge",
-  "categories": [
-      "Node.js"
-  ],
-  "filePatterns": [
-      "package.json$",
-  ]
+  "description": "Deploy HTML to surge"
 }

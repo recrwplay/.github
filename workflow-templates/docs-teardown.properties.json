@@ -1,10 +1,4 @@
 {
   "name": "Teardown a surge deployment",
-  "description": "Remove deployed content fronm surge when a PR has been closed",
-  "categories": [
-      "Node.js"
-  ],
-  "filePatterns": [
-      "package.json$",
-  ]
+  "description": "Remove deployed content fronm surge when a PR has been closed"
 }
