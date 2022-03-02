@@ -1,6 +1,6 @@
 {
-  "name": "Publish docs",
-  "description": "Publish htnl to a development or production S3 bucket, depending on the branch",
+  "name": "Verify a PR",
+  "description": "Verify a PR by using Antora to generate HTML from asciidoc source",
   "categories": [
       "Asciidoc",
       "Antora",

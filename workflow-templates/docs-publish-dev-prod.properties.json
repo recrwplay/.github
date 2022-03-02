@@ -1,0 +1,11 @@
+{
+  "name": "Publish docs",
+  "description": "Publish HTML to S3 to a dev or production bucket depending on the branch",
+  "categories": [
+      "HTML",
+  ],
+  "filePatterns": [
+      "package.json$",
+      "antora.yml"
+  ]
+}
