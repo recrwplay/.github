@@ -1,6 +1,6 @@
 {
-  "name": "Docs build workflow",
-  "description": "Neo4j docs starter workflow - build html with Antora",
+  "name": "Generate HTML with Antora",
+  "description": "Neo4j docs starter workflow - use Antora to generate HTML from asciidoc source",
   "categories": [
       "Asciidoc",
       "Antora",

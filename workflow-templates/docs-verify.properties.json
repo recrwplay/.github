@@ -1,6 +1,6 @@
 {
-  "name": "Docs verify workflow",
-  "description": "Neo4j docs starter workflow - verify html by analysing Antora logs",
+  "name": "Verify Antora log",
+  "description": "Analyse Antora json log output to verify content, and output github actions annotations for warnings and errors",
   "categories": [
       "Asciidoc",
       "Antora",

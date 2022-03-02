@@ -1,6 +1,6 @@
 {
-  "name": "Docs build workflow",
-  "description": "Neo4j docs starter workflow - publish html",
+  "name": "Publish docs",
+  "description": "Publish htnl to a development or production S3 bucket, depending on the branch",
   "categories": [
       "Asciidoc",
       "Antora",
