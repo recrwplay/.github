@@ -1,6 +1,6 @@
 {
   "name": "Docs build workflow",
-  "description": "Neo4j docs starter workflow - build html with Antora",
+  "description": "Neo4j docs starter workflow - publish html",
   "categories": [
       "Asciidoc",
       "Antora",
