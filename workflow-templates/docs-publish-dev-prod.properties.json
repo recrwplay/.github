@@ -1,4 +1,11 @@
 {
   "name": "Publish docs",
-  "description": "Publish HTML to S3 to a dev or production bucket depending on the branch"
+  "description": "Publish HTML to S3 to a dev or production bucket depending on the branch",
+  "filePatterns": [
+    "antora.yml$",
+    "preview.yml$",
+    "publish.yml$",
+    "modules/ROOT/**"
+  ],
+  "license": "ISC"
 }

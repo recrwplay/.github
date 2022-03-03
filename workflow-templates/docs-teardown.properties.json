@@ -1,4 +1,11 @@
 {
   "name": "Teardown a surge deployment",
-  "description": "Remove deployed content fronm surge when a PR has been closed"
+  "description": "Remove deployed content from surge when a PR has been closed",
+  "filePatterns": [
+    "antora.yml$",
+    "preview.yml$",
+    "publish.yml$",
+    "modules/ROOT/**"
+  ],
+  "license": "ISC"
 }

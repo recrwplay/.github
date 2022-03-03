@@ -3,11 +3,13 @@
   "description": "Verify a PR by using Antora to generate HTML from asciidoc source",
   "categories": [
       "Asciidoc",
-      "Antora",
-      "Node.js"
+      "JavaScript"
   ],
   "filePatterns": [
-      "package.json$",
-      "antora.yml"
-  ]
+    "antora.yml$",
+    "preview.yml$",
+    "publish.yml$",
+    "modules/ROOT/**"
+  ],
+  "license": "ISC"
 }
